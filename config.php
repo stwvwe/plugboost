@@ -1,7 +1,7 @@
 <?php
 // Site Settings
-$yourname = "Eagle";
-$apikey = "eagleishot";
+$yourname = "Steve";
+$apikey = "steve1745";
 $faviconurl = "";
 
 // Theme colors
