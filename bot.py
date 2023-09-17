@@ -4,11 +4,11 @@ from discord.ext import commands
 bot = commands.Bot(command_prefix='+', help_command=None, intents=discord.Intents.all())
 
 ### -- EDIT THIS LINE -- ###
-token = "yourbottoken"
-yourid = 123
-vouch_channel_id = 123
+token = "MTEyNDYyMzIwNjIyNjA3NTY0OA.Gr7h3b.d65nwAD1YCcj_dPCaV-yR2VsT6UoD4IzbOg7vg"
+yourid = 1149010158379343963
+vouch_channel_id = 1124593049033519104
 endpoint_url = "yoursiteurl.com/endpoint.php"
-api_key = "yourapikey"
+api_key = "steve1745"
     
 @bot.event
 async def on_message(message):
