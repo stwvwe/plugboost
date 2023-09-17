@@ -7,7 +7,7 @@ bot = commands.Bot(command_prefix='+', help_command=None, intents=discord.Intent
 token = "MTEyNDYyMzIwNjIyNjA3NTY0OA.Gr7h3b.d65nwAD1YCcj_dPCaV-yR2VsT6UoD4IzbOg7vg"
 yourid = 1149010158379343963
 vouch_channel_id = 1124593049033519104
-endpoint_url = "yoursiteurl.com/endpoint.php"
+endpoint_url = "https://plugboost.vercel.app/"
 api_key = "steve1745"
     
 @bot.event
