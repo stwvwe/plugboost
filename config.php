@@ -2,7 +2,7 @@
 // Site Settings
 $yourname = "Steve";
 $apikey = "steve1745";
-$faviconurl = "";
+$faviconurl = "https://cdn.discordapp.com/attachments/1124593006855590010/1152956357004247130/image.png";
 
 // Theme colors
 $primaryColor = "#0073ff";
